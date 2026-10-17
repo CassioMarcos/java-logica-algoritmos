@@ -1,0 +1,15 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Java e ferramentas de build
+*.class
+target/
+build/
+.gradle/
+
+# Arquivos temporários
+*.log
+.DS_Store
+Thumbs.db
